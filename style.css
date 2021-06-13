@@ -1,0 +1,94 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: linear-gradient(-45deg, #f2b5d4, #f7d6e0, #eff7f6, #b2f7ef, #7bdff2);
+}
+
+.line {
+    height: 5px;
+    width: 30px;
+    border-radius: 75px;
+    background-color: navy;
+    margin-bottom: 50px;
+    margin-top: 25px;
+}
+
+.travel_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-family: 'Overlock', cursive;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+}
+
+hr {
+    width: 230px;
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 20px;
+}
+
+section {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.header {
+    font-family: 'Syncopate', sans-serif;
+}
+
+.navbar-inverse {
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+
+.text-success {
+    color: #b5e48c;
+}
+
+.kbd {
+    background-color: #0096C7;
+}
+
+.page-header {
+    font-family: 'Montez', cursive;
+    font-size: 30px;
+}
+
+.bg-primary {
+    font-family: 'Just Another Hand', cursive;
+}
+
+.description {
+    font-family: 'Overlock', cursive;
+    font-size: 20px;
+}
+
+.extra {
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: 17.5px;
+
+}
+
+.movie_head {
+    font-size:20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
